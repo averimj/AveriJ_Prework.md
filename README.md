@@ -94,44 +94,44 @@ true and false
 if, else, elsif and end. Allowing our program to make decisions for us based on the values in the program.
 
 ### What will the following code return? apple_count = 4
-## if apple_count > 5
-## puts "Lots of apples!"
-## else
-## puts 'Not many apples...'
-## end
+### if apple_count > 5
+### puts "Lots of apples!"
+### else
+### puts 'Not many apples...'
+### end
 Not many apples...
 
-## What is an infinite loop, and how can you get out of one?
+### What is an infinite loop, and how can you get out of one?
 A piece of code that lacks an exit and so it repeats indefinitely. Ctrl + c
 
-### Nil
-## What is nil?
+## Nil
+### What is nil?
 It means nothing, a variable hasn't been assigned anything yet.
 
-### Symbols
-## How can symbols be beneficial in Ruby?
+## Symbols
+### How can symbols be beneficial in Ruby?
 Uses less memory
 
-## Does naming symbols use the same rules for naming variables?
+### Does naming symbols use the same rules for naming variables?
 Symbols are constant(letters, numbers) so they can't be assgned a value.
 
-### Arrays
-## What method can you call to find out how many elements are in an array?
+## Arrays
+### What method can you call to find out how many elements are in an array?
 .length
 
-## What is the index of pizza in this array: ["pizza", "ice cream", "cauliflower"]?
+### What is the index of pizza in this array: ["pizza", "ice cream", "cauliflower"]?
 Zero
 
-## What do 'push' and 'pop' do?
+### What do 'push' and 'pop' do?
 Push adds to the array at the end.
 Pop deletes from the array, starting at the end
 
-### Hashes
-## Describe some differences between arrays and hashes.
+## Hashes
+### Describe some differences between arrays and hashes.
 Hashes store pairs of items associating keys with values.
 Array store an ordered list of items.
 
-## What is a case when you might prefer an array? What is a case when you might prefer a hash?
+### What is a case when you might prefer an array? What is a case when you might prefer a hash?
 Arrays--when I want to store peoples birthdays or who has senority at work based on how long they've been there.
 
 Hashes--when I want to group large amounts of info
