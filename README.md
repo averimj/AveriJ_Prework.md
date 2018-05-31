@@ -72,7 +72,7 @@ Integers are whole numbers--5
 ### What is the ruby command to find 2 to the 2nd power?
 2 ** 2
 
-## Booleans
+## BOOLEANS
 ### What do each of the following symbols mean?
 ==  equals
 
@@ -89,33 +89,33 @@ Integers are whole numbers--5
 ### What are two Ruby methods that return booleans?
 true and false
 
-## Conditionals
+## CONDITIONALS
 ### What is flow control?
 if, else, elsif and end. Allowing our program to make decisions for us based on the values in the program.
 
-### What will the following code return? apple_count = 4
-### if apple_count > 5
-### puts "Lots of apples!"
-### else
-### puts 'Not many apples...'
-### end
+#### What will the following code return? apple_count = 4
+#### if apple_count > 5
+#### puts "Lots of apples!"
+#### else
+#### puts 'Not many apples...'
+#### end
 Not many apples...
 
 ### What is an infinite loop, and how can you get out of one?
 A piece of code that lacks an exit and so it repeats indefinitely. Ctrl + c
 
-## Nil
+## NIL
 ### What is nil?
 It means nothing, a variable hasn't been assigned anything yet.
 
-## Symbols
+## SYMBOLS
 ### How can symbols be beneficial in Ruby?
 Uses less memory
 
 ### Does naming symbols use the same rules for naming variables?
 Symbols are constant(letters, numbers) so they can't be assgned a value.
 
-## Arrays
+## ARRAYS
 ### What method can you call to find out how many elements are in an array?
 .length
 
@@ -126,7 +126,7 @@ Zero
 Push adds to the array at the end.
 Pop deletes from the array, starting at the end
 
-## Hashes
+## HASHES
 ### Describe some differences between arrays and hashes.
 Hashes store pairs of items associating keys with values.
 Array store an ordered list of items.
