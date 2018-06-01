@@ -22,6 +22,9 @@ Its a comment for fellow coders and for ruby to ignore
 
 # Day 3
 ### POMODORO BREAK
+The Pomodoro Break is a time management technique developed by Francesco Cirillo in the mid 1980's. He used a timer (shaped like a tomato, hence the name pomodoro) to break down his work into 25 minute intervals. These intervals are called pomodoro and were separated by 3-5 minute breaks. After 4 pomodoro's, you're suppose to take a 15-30 minute break and then start over.
+
+Personally, I like to work for 90 minutes with a 10-15 minute break. During the break I like to take a walk outside to get some fresh air and a bit of nature.
 
 
 ### VARIABLES
