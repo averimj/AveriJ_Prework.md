@@ -1,6 +1,10 @@
 # AveriJ_Prework.md
 Response to questions in BE-prework
 
+# Professional Development
+
+# Gear Up
+
 # Day 2
 ### What command is entered into the command line to enter an 'irb' session?
 Simply type "irb"
@@ -131,11 +135,13 @@ Zero
 
 ### What do 'push' and 'pop' do?
 Push adds to the array at the end.
+
 Pop deletes from the array, starting at the end
 
 ### HASHES
 ### Describe some differences between arrays and hashes.
 Hashes store pairs of items associating keys with values.
+
 Array store an ordered list of items.
 
 ### What is a case when you might prefer an array? What is a case when you might prefer a hash?
