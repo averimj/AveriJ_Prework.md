@@ -6,22 +6,22 @@ Response to questions in BE-prework
 # Gear Up
 
 # Day 2
-## What command is entered into the command line to enter an 'irb' session?
+### What command is entered into the command line to enter an 'irb' session?
 ``` irb ```
 
-## What is the expression used to express a number squared?
+### What is the expression used to express a number squared?
 ``` 2 ** 3 = 8 ```
 
-## What is the ruby command used to output something to the terminal?
+### What is the ruby command used to output something to the terminal?
 ``` puts ```
 
-## How is a ruby file run from the command line?
+### How is a ruby file run from the command line?
 ``` ruby filename.rb ```
 
-## If a # is at the beginning of a ruby line in Atom, what does that indicate?
+### If a # is at the beginning of a ruby line in Atom, what does that indicate?
 ``` Its a comment for fellow coders and for ruby to ignore ```
 
-## What will "turing".length return?
+### What will "turing".length return?
 ``` 6 ```
 
 # Day 3
@@ -31,11 +31,11 @@ The Pomodoro Break is a time management technique developed by Francesco Cirillo
 Personally, I like to work for 90 minutes with a 10-15 minute break. During the break I like to take a walk outside to get some fresh air and a bit of nature.
 
 
-### VARIABLES
-## How do you create a variable?
+## VARIABLES
+### How do you create a variable?
 ``` Name it whatever you want and set it equal to something ```
 
-## What did you learn about the rules for naming variables?
+### What did you learn about the rules for naming variables?
 ``` Cannot start with numbers and no dashes (bad-- last-name) (good-- last_name) ```
 
 ### How do you change the value of a variable?
@@ -46,7 +46,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` shouting = "Bitch plz!" ```
 
 
-### DATATYPES
+## DATATYPES
 ### How can you find out the class of a variable?
 ``` [1, 2, 3].class and I would get array. ```
 
@@ -59,7 +59,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` .to_s ```
 
 
-### STRINGS
+## STRINGS
 ### Why might you use double quotes instead of single quotes in Ruby?
 ``` String interpolation ```
 
