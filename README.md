@@ -32,6 +32,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 
 ## VARIABLES
+
 ### How do you create a variable?
 ``` Name it whatever you want and set it equal to something ```
 
@@ -46,7 +47,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` shouting = "Bitch plz!" ```
 
 
-## **DATATYPES**
+## DATATYPES
 
 ### How can you find out the class of a variable?
 ``` [1, 2, 3].class and I would get array. ```
@@ -61,6 +62,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 
 ## STRINGS
+
 ### Why might you use double quotes instead of single quotes in Ruby?
 ``` String interpolation ```
 
@@ -72,6 +74,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 
 ### INPUT & OUTPUT
+
 ### What do 'print' and 'puts' do in Ruby?
 ``` Puts---prints info to the user and has a return value of nil ```
 
@@ -82,6 +85,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 # Day 4
 ### NUMERICS AND ARITHMETIC
+
 ### What is the difference between integers and floats?
 ``` Floats are decimals--5.0 ```
 
@@ -91,6 +95,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` 2 ** 2 ```
 
 ### BOOLEANS
+
 ### What do each of the following symbols mean?
 ``` ==  equals ```
 
@@ -108,6 +113,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` True and False ```
 
 ### CONDITIONALS
+
 ### What is flow control?
 ``` If, else, elsif and end. ```
 
@@ -129,6 +135,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` Ctrl + c ```
 
 ### NIL
+
 ### What is nil?
 ``` It means nothing, a variable hasn't been assigned anything yet. ```
 
@@ -140,6 +147,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` Symbols are constant(letters, numbers) so they can't be assgned a value. ```
 
 ### ARRAYS
+
 ### What method can you call to find out how many elements are in an array?
 ``` .length ```
 
@@ -152,6 +160,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` Pop deletes from the array, starting at the end ```
 
 ### HASHES
+
 ### Describe some differences between arrays and hashes.
 ``` Hashes store pairs of items associating keys with values. ```
 
@@ -164,6 +173,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 # Day 5 
 ### ATOM AND TERMINAL
+
 ### Regarding the string, “Turing”. What ruby command would we use to get:
 * The “T” from “Turing”.
 * The length of “Turing”.
