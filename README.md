@@ -33,13 +33,17 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 ### VARIABLES
 ### How do you create a variable?
-``` Name it whatever you want it to be and set it equal to something ```
+``` Name it whatever you want and set it equal to something ```
 
 ### What did you learn about the rules for naming variables?
 ``` Cannot start with numbers and no dashes (bad-- last-name) (good-- last_name) ```
 
 ### How do you change the value of a variable?
-``` Just rename shouting = "Hey you!". Later in the code shouting = "Bitch plz!" ```
+``` Name it anything you want: ```
+``` shouting = "Hey you!" ```
+    
+``` Later in the code, you can rename it: ```
+``` shouting = "Bitch plz!" ```
 
 
 ### DATATYPES
@@ -69,6 +73,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ### INPUT & OUTPUT
 ### What do 'print' and 'puts' do in Ruby?
 ``` Puts---prints info to the user and has a return value of nil ```
+
 ``` Print---does the same thing but doesn't make a new line ```
 
 ### What does 'gets' do in Ruby?
@@ -78,6 +83,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ### NUMERICS AND ARITHMETIC
 ### What is the difference between integers and floats?
 ``` Floats are decimals--5.0 ```
+
 ``` Integers are whole numbers--5 ```
 
 ### What is the ruby command to find 2 to the 2nd power?
@@ -102,18 +108,20 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 ### CONDITIONALS
 ### What is flow control?
-``` if, else, elsif and end. Allowing our program to make decisions for us based on the values in the program. ```
+``` If, else, elsif and end. ```
+``` Allowing our program to make decisions for us based on the values in the program. ```
 
-##### What will the following code return? apple_count = 4
-##### if apple_count > 5
-##### puts "Lots of apples!"
-##### else
-##### puts 'Not many apples...'
-##### end
+### What will the following code return? #### apple_count = 4
+#### if apple_count > 5
+#### puts "Lots of apples!"
+#### else
+#### puts 'Not many apples...'
+#### end
 ``` Not many apples... ```
 
 ### What is an infinite loop, and how can you get out of one?
-``` A piece of code that lacks an exit and so it repeats indefinitely. Ctrl + c ```
+``` A piece of code that lacks an exit and so it repeats indefinitely. ```
+``` Ctrl + c ```
 
 ### NIL
 ### What is nil?
