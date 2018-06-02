@@ -109,18 +109,22 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ### CONDITIONALS
 ### What is flow control?
 ``` If, else, elsif and end. ```
+
 ``` Allowing our program to make decisions for us based on the values in the program. ```
 
-### What will the following code return? #### apple_count = 4
+### What will the following code return? 
+#### apple_count = 4
 #### if apple_count > 5
 #### puts "Lots of apples!"
 #### else
 #### puts 'Not many apples...'
 #### end
+
 ``` Not many apples... ```
 
 ### What is an infinite loop, and how can you get out of one?
 ``` A piece of code that lacks an exit and so it repeats indefinitely. ```
+
 ``` Ctrl + c ```
 
 ### NIL
