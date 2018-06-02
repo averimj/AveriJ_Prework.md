@@ -73,7 +73,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` .delete('aeiou') ```
 
 
-### INPUT & OUTPUT
+## INPUT & OUTPUT
 
 ### What do 'print' and 'puts' do in Ruby?
 ``` Puts---prints info to the user and has a return value of nil ```
@@ -84,7 +84,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` Waits for the user to type something and hit enter ```
 
 # Day 4
-### NUMERICS AND ARITHMETIC
+## NUMERICS AND ARITHMETIC
 
 ### What is the difference between integers and floats?
 ``` Floats are decimals--5.0 ```
@@ -94,7 +94,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ### What is the ruby command to find 2 to the 2nd power?
 ``` 2 ** 2 ```
 
-### BOOLEANS
+## BOOLEANS
 
 ### What do each of the following symbols mean?
 ``` ==  equals ```
@@ -112,7 +112,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ### What are two Ruby methods that return booleans?
 ``` True and False ```
 
-### CONDITIONALS
+## CONDITIONALS
 
 ### What is flow control?
 ``` If, else, elsif and end. ```
@@ -134,19 +134,19 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 ``` Ctrl + c ```
 
-### NIL
+## NIL
 
 ### What is nil?
 ``` It means nothing, a variable hasn't been assigned anything yet. ```
 
-### SYMBOLS
+## SYMBOLS
 ### How can symbols be beneficial in Ruby?
 ``` Uses less memory ```
 
 ### Does naming symbols use the same rules for naming variables?
 ``` Symbols are constant(letters, numbers) so they can't be assgned a value. ```
 
-### ARRAYS
+## ARRAYS
 
 ### What method can you call to find out how many elements are in an array?
 ``` .length ```
@@ -159,7 +159,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 
 ``` Pop deletes from the array, starting at the end ```
 
-### HASHES
+## HASHES
 
 ### Describe some differences between arrays and hashes.
 ``` Hashes store pairs of items associating keys with values. ```
@@ -172,7 +172,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` Hashes--when I want to group large amounts of info ```
 
 # Day 5 
-### ATOM AND TERMINAL
+## ATOM AND TERMINAL
 
 ### Regarding the string, “Turing”. What ruby command would we use to get:
 * The “T” from “Turing”.
@@ -192,7 +192,7 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ### What ruby command is used to remove the last element from the array?
 
 # Day 7
-### CODE FOR GAME
+## CODE FOR GAME
 
 ### Were you able to get through the work? Did you rush to finish, or take your time?
 ### What do you feel most confident about?
