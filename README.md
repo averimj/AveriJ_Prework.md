@@ -46,7 +46,8 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` shouting = "Bitch plz!" ```
 
 
-## DATATYPES
+## **DATATYPES**
+
 ### How can you find out the class of a variable?
 ``` [1, 2, 3].class and I would get array. ```
 
