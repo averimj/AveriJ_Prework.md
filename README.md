@@ -252,7 +252,11 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` Waits for the user to type something and hit enter ```
 
 #### What is the difference between the input without the .chomp and the input with the .chomp?
+``` Input **without .chomp** you get the newline character at the end ```
+``` gets -- Averi\n ```
 
+``` Input **with .chomps** you dont ```
+``` gets.chomp -- Averi ```
 
 #### What does fav_num.to_i do?
 ``` Changes your favorite number into an interger if it isn't already. ```
@@ -270,6 +274,10 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` .push() ```
 
 ``` << ```
+
+``` .unshift ```
+
+``` .insert(,) ```
 
 #### What ruby command is used to remove the last element from the array?
 ``` .pop ```
