@@ -2,18 +2,22 @@
 Response to questions in BE-prework
 
 # Professional Development
-### Checklist Manifesto
+### CHECKLIST MANIFESTO
 As a new student and future developer, I believe having a checklist will help me stay on task. When I write stuff down (a checklist), it helps lessen my anxiety because I know what to expect and what needs to be done. 
 
 As a human being, I'm guaranteed to make mistakes and forget things but if I have my responsibilities written down, it also guarantees that everything gets done.
 
-For me, checklist are similar to how I set goals. Let's say your goal is to lose 20 pounds. It sounds good and its a very general statement but I have to be specific about how I plan to lose 20 pounds. 
+For me, checklist are similar to how I set goals. Let's say my goal is to lose 20 pounds. It sounds good and its a very general statement but I have to be specific about how I plan to lose 20 pounds. 
 
 The "How" is essentially my checklist.
 - [ ] Drink 4 bottles of water
 - [ ] Take the stairs at work
 - [ ] Zumba on Tuesdays and Thursday from 6pm- 7pm
 - [ ] Run for 30 minutes on Saturday
+
+### 29 BEHAVIORS OF UNSTOPPABLE PROGRAMMERS
+My top 3 behaviors are:
+* Use Google when struck...I've been learning on my own and when I get stuck
 
 # Gear Up
 
@@ -43,7 +47,7 @@ The Pomodoro Break is a time management technique developed by Francesco Cirillo
 Personally, I like to work for 90 minutes with a 10-15 minute break. During the break I like to take a walk outside to get some fresh air and a bit of nature.
 
 
-## VARIABLES
+## VARIABLES            
 
 ### How do you create a variable?
 ``` Name it whatever you want and set it equal to something ```
