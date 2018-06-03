@@ -2,6 +2,18 @@
 Response to questions in BE-prework
 
 # Professional Development
+### Checklist Manifesto
+As a new student and future developer, I believe having a checklist will help me stay on task. When I write stuff down (a checklist), it helps lessen my anxiety because I know what to expect and what needs to be done. 
+
+As a human being, I'm guaranteed to make mistakes and forget things but if I have my responsibilities written down, it also guarantees that everything gets done.
+
+For me, checklist are similar to how I set goals. Let's say your goal is to lose 20 pounds. It sounds good and its a very general statement but I have to be specific about how I plan to lose 20 pounds. 
+
+The "How" is essentially my checklist.
+- [ ] Drink 4 bottles of water
+- [ ] Take the stairs at work
+- [ ] Zumba on Tuesdays and Thursday from 6pm- 7pm
+- [ ] Run for 30 minutes on Saturday
 
 # Gear Up
 
