@@ -229,10 +229,19 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ## ATOM AND TERMINAL
 #### Regarding the string, “Turing”. What ruby command would we use to get:
 * The “T” from “Turing”.
+``` "Turing"[0] ```
+
 * The length of “Turing”.
+``` "Turing".length ```
+
 * Make the whole string capital letters.
+``` "Turing".upcase ```
+
 * Delete the “n” from “Turing”.
+``` "Turing".delete('n') ```
+
 * Assign “Turing” to a variable.
+``` best_school = "Turing" ```
 
 #### What does gets do?
 #### What is the difference between the input without the .chomp and the input with the .chomp?
