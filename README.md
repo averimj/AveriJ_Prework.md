@@ -249,32 +249,30 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` best_school = "Turing" ```
 
 #### What does gets do?
-
 ``` Waits for the user to type something and hit enter ```
 
 #### What is the difference between the input without the .chomp and the input with the .chomp?
 
 
 #### What does fav_num.to_i do?
-
 ``` Changes your favorite number into an interger if it isn't already. ```
 
 #### What does animals.length return?
-
 ``` 7 ```
 
 #### What does animals[0] return?
-
 ``` a ```
 
 #### What does animals.empty? return?
-
 ``` False ```
 
 #### What are two different ruby commands that add to the animals?
+``` .push() ```
 
+``` << ```
 
 #### What ruby command is used to remove the last element from the array?
+``` .pop ```
 
 # Day 7
 ## CODE FOR GAME
