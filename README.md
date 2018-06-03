@@ -24,11 +24,11 @@ My top 3 behaviors are:
 * Go play foosball. That's often more important than coding...Sometimes I can be so focused and don't want to get out of my groove. But studies have shown that a break every 90 minutes is healthy. 
 
 ### STRENGTH BASED APPROACH
-#### What is your impression of strengths-based development? What questions do you have about this kind of development?
+### What is your impression of strengths-based development? What questions do you have about this kind of development?
 My impression of Strength Based Development is that companies figure out what a persons strengths are and capitalize on it. Literally bringing out the best in people and helping individuals realize their innate abilities and hone in on them.
 In addition, if a person feels valued within an organization, I believe they'll work harder and more creatively because they're given the space and support to do so.
 
-#### What do you feel are your top strengths? How do you know?
+### What do you feel are your top strengths? How do you know?
 My top strengths are patience, kindness, a great listener, an easy/go with the flow attitude and I'm determined. I know this to be true because I'm self aware and I recently took the Pairin Personal Assessment and it listed me as:
 * Dynamo
 * Tugboat
@@ -37,11 +37,15 @@ My top strengths are patience, kindness, a great listener, an easy/go with the f
 
 I also know my weakness is dealing with conflict. I often ask myself if I've adapted these strenghts to somehow protect myself by avoiding conflict.
 
-#### How do you hope to develop your strengths for your new career in software development?
-Despite having developed strenghts to cover up my weaknesses, using my strengths as a software developer will create an environment where all people feel safe, a sense of belonging, of being heard, having an authenic relationship and being respected for their individuality.
+### How do you hope to develop your strengths for your new career in software development?
+Using my strengths as a software developer will be most evident when working with teams. I notice who the introverts are in the room and  create an environment where all people feel comfortable, a place where they know their valued and respected for their individuality.
 
 # Gear Up
-
+What role does empathy play in your life and how has it helped you?
+How does empathy help you build better software?
+Why is empathy important for working on a team?
+Describe a situation in which your ability to empathize with a colleague or teammate was helpful.
+When do you find it most difficult to be empathetic in professional settings? How can you improve your skills when faced with these scenarios?
 # Day 2
 ### What command is entered into the command line to enter an 'irb' session?
 ``` irb ```
