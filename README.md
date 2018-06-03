@@ -21,8 +21,13 @@ My top 3 behaviors are:
 
 * Always code review your own work first...It seems like common sense but it would avoid someone else having to go thru and correct silly mistakes that you could've fixed on your own. 
 
-* Go play foosball. That's often more important than coding...Sometimes I can be so focused and don't want to get out of my groove. But studies have shown that a break every 90 minutes or so is healthy. 
+* Go play foosball. That's often more important than coding...Sometimes I can be so focused and don't want to get out of my groove. But studies have shown that a break every 90 minutes is healthy. 
 
+### STRENGTH BASED APPROACH
+**What is your impression of strengths-based development? What questions do you have about this kind of development?**
+My impression of Strength Based Development is that
+**What do you feel are your top strengths? How do you know?**
+**How do you hope to develop your strengths for your new career in software development?**
 
 # Gear Up
 
