@@ -26,7 +26,9 @@ My top 3 behaviors are:
 ### STRENGTH BASED APPROACH
 **What is your impression of strengths-based development? What questions do you have about this kind of development?**
 My impression of Strength Based Development is that
+
 **What do you feel are your top strengths? How do you know?**
+
 **How do you hope to develop your strengths for your new career in software development?**
 
 # Gear Up
