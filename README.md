@@ -229,27 +229,51 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ## ATOM AND TERMINAL
 #### Regarding the string, “Turing”. What ruby command would we use to get:
 * The “T” from “Turing”.
+
 ``` "Turing"[0] ```
 
 * The length of “Turing”.
+
 ``` "Turing".length ```
 
 * Make the whole string capital letters.
+
 ``` "Turing".upcase ```
 
 * Delete the “n” from “Turing”.
+
 ``` "Turing".delete('n') ```
 
 * Assign “Turing” to a variable.
+
 ``` best_school = "Turing" ```
 
 #### What does gets do?
+
+``` Waits for the user to type something and hit enter ```
+
 #### What is the difference between the input without the .chomp and the input with the .chomp?
+
+
 #### What does fav_num.to_i do?
+
+``` Changes your favorite number into an interger if it isn't already. ```
+
 #### What does animals.length return?
+
+``` 7 ```
+
 #### What does animals[0] return?
+
+``` a ```
+
 #### What does animals.empty? return?
-#### What are two different ruby commands that add to the animals ?
+
+``` False ```
+
+#### What are two different ruby commands that add to the animals?
+
+
 #### What ruby command is used to remove the last element from the array?
 
 # Day 7
