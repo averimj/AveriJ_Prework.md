@@ -29,8 +29,16 @@ My impression of Strength Based Development is that companies figure out what a 
 In addition, if a person feels valued within an organization, I believe they'll work harder and more creatively because they're given the space and support to do so.
 
 #### What do you feel are your top strengths? How do you know?
+My top strengths are patience, kindness, a great listener, an easy/go with the flow attitude and I'm determined. I know this to be true because I'm self aware and I recently took the Pairin Personal Assessment and it listed me as:
+* Dynamo
+* Tugboat
+* Calm, Cool and Collected
+* Lover of Moderation
+
+I also know my weakness is dealing with conflict. I often ask myself if I've adapted these strenghts to somehow protect myself by avoiding conflict.
 
 #### How do you hope to develop your strengths for your new career in software development?
+Despite having developed strenghts to cover up my weaknesses, using my strengths as a software developer will create an environment where all people feel safe, a sense of belonging, of being heard, having an authenic relationship and being respected for their individuality.
 
 # Gear Up
 
