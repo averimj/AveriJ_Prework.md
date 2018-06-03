@@ -16,8 +16,13 @@ The "How" is essentially my checklist.
 - [ ] Run for 30 minutes on Saturday
 
 ### 29 BEHAVIORS OF UNSTOPPABLE PROGRAMMERS
-My top 3 behaviors are:
-* Use Google when struck...I've been learning on my own and when I get stuck
+My top 3 behaviors are: 
+* Use Google when struck...I've been learning on my own and when I get stuck I go straight to Google. I've found it to be really helpful when I know how to correctly word my question. The flip side is that sometimes I find myself searching on Google for hours on end. I need to know when to let it go.
+
+* Always code review your own work first...It seems like common sense but it would avoid someone else having to go thru and correct silly mistakes that you could've fixed on your own. 
+
+* Go play foosball. That's often more important than coding...Sometimes I can be so focused and don't want to get out of my groove. But studies have shown that a break every 90 minutes or so is healthy. 
+
 
 # Gear Up
 
