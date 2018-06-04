@@ -264,10 +264,10 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` Changes your favorite number into an interger if it isn't already. ```
 
 #### What does animals.length return?
-``` 7 ```
+``` 4 ```
 
 #### What does animals[0] return?
-``` a ```
+``` Dog ```
 
 #### What does animals.empty? return?
 ``` False ```
@@ -276,10 +276,6 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 ``` .push() ```
 
 ``` << ```
-
-``` .unshift ```
-
-``` .insert(,) ```
 
 #### What ruby command is used to remove the last element from the array?
 ``` .pop ```
