@@ -283,33 +283,33 @@ Personally, I like to work for 90 minutes with a 10-15 minute break. During the 
 # Day 7
 ## CODE FOR GAME
 #### Were you able to get through the work? Did you rush to finish, or take your time?
-I was able to take my time because I started 4 weeks before.
+``` I was able to take my time because I started 4 weeks before. ```
 
 #### What do you feel most confident about?
-I understand strings, arrays, booleans, datatypes and numeric & arithmetic. 
+``` I understand strings, arrays, booleans, datatypes and numeric & arithmetic. ```
 
 #### What do you feel least confident about?
-Writing and understanding code.
+``` Writing and understanding code. ```
 
 #### What are you most looking forward to learning more about?
-Writing and understanding code.
+``` Writing and understanding code. ```
 
 #### What topics would you most like to see reinforced by instructors?
-Writing and understanding code, how to use atom and all the handy-dandy shortcuts (mac/atom).
+``` Writing and understanding code, how to use atom and all the handy-dandy shortcuts (mac/atom). ```
 
 #### What is most confusing to you about what you've learned?
-Everything makes sense except for writing and understanding code.
+``` Everything makes sense except for writing and understanding code. ```
 
 #### What questions do you have for your student mentor or for your instructors?
-Whats the best way to learn to write and understand code?
-Whats the best way to study?
-Any tips for single parents entering the program?
+``` Whats the best way to learn to write and understand code? ```
+``` Whats the best way to study? ```
+``` Any tips for single parents entering the program? ```
 
 #### What do you feel was most successful in your game?
-That it worked and I did it all by myself. When I got stuck I researched it on the internet and when that didn't work I reached out for help.
+``` That it worked and I did it all by myself. When I got stuck I researched it on the internet and when that didn't work I reached out for help. ```
 
 #### What was the most challenging part about creating the game?
-Figuring out how to add a "cheat" and "hint" capability.
+``` Figuring out how to add a "cheat" and "hint" capability. ```
 
 #### When you reached a challenging part of the game, how did you move forward?
-I looked on line and then asked for help from our pre-work guides.
+``` I looked on line and then asked for help from our pre-work guides. ```
